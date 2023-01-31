@@ -34,14 +34,7 @@
         "showAll" : false,
         "search" : true
     },
-        {
-        "name" : "🏵久剃",
-        "server" : "https://drive.9t.ee",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
-        {
+       {
         "name" : "👁兮语",
         "server" : "https://alist1.owen10086.repl.co",
         "startPage" : "/",
