@@ -147,6 +147,13 @@
         "search" : true
     },
         {
+        "name" : "📀9T",
+        "server" : "https://drive.9t.ee",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
         "name" : "💦讯维",
         "server" : "https://pan.xwbeta.com",
         "startPage" : "/",
