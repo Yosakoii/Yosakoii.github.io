@@ -78,6 +78,13 @@
       "server": "https://960303.xyz"
     },
     {
+        "name" : "📀9T",
+        "server" : "https://drive.9t.ee",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+    {
       "name": "💾DISK",
       "server": "http://124.222.140.243:8080"
     }
