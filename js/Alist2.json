@@ -1,14 +1,14 @@
 [
         {
         "name" : "👗小雅",
-        "server" : "http://alist.xiaoya.pro/",
+        "server" : "http://alist.xiaoya.pro",
         "startPage" : "/",
         "showAll" : false,
         "search" : true
     },
         {
         "name" : "👑流年",
-        "server" : "http://aruisi.fun:88/",
+        "server" : "http://aruisi.fun:666",
         "startPage" : "/",
         "showAll" : false,
         "search" : true
