@@ -33,6 +33,7 @@
 {"key":"csp_小宝影院","name":"⛄️小宝(SP墙)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
 {"key":"csp_NiNi","name":"👑泥巴(SP墙)","type":3,"api":"csp_NiNi","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Trenjie","name":"🐾唐人(SP墙)","type":3,"api":"csp_Tangrenjie","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Yht","name":"💅野荷塘(SP)","type":3,"api":"csp_Yht","playerType":2,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_panghu","name":"🐯胖虎(SP)","type":3,"api":"csp_Panghu","playerType":2,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 { "key":"csp_zxzj", "name":"🏠在线(SP)", "type":3, "api":"csp_Zxzj", "searchable":1, "quickSearch":1, "filterable":1 },
 {"key":"csp_SP2345","name":"2️⃣2345(SP)","type":3,"api":"csp_SP2345","playerType":2,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
@@ -383,6 +384,9 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"☑️星辰","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=2b3f77cc43950d4289df3df87a9cbe5a&url="},
+{"name":"️☑️菜尼丝","type":0,"url":"https://jx.cainisi.cf/?v="},
+{"name":"️☑️xifanys","type":1,"url":"http://www.pandown.pro/app/tkys/tkysjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
+
 //{"name":"☑️融兴","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
 {"name":"☑️左岸","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"☑️布雷","type":0,"url":"https://bf.bulei.cc/player/?url=","ext":{"flag":["qq","腾讯"]}}
