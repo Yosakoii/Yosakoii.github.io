@@ -8,18 +8,28 @@
   
   "分类url": "https://www.ajeee.com/show/{cateId}{area}{by}{class}/page/{catePg}{year}.html",
   
+  "二次截取": "<div class=\"module-items&&<div id=\"page\">",
   "标题": "alt=\"&&\"",
   "副标题": "module-item-note\">&&</div>",
   
-  "搜索模式": "0",
-  "搜索后缀": "/detail/",
+  "搜索模式": "1",
+  "搜索url": "/search.html?wd={wd}",
+  "搜索数组": "module-item\">&&</a>",
+  "搜索图片": "data-original=\"&&\"",
+  "搜索标题": "alt=\"&&\"",
+  "搜索链接": "href=\"&&\"",
+  "搜索副标题": "module-item-note\">&&</div>",
   
   "导演": "导演：&&</div>",
   "主演": "主演：&&</div>",
   "简介": "剧情：</span>&&(更多详细",
   
   "线路数组": "<div class=\"module-tab-item tab-item\"&&</div>",
-  "线路标题": "<span>&&</small>[替换:</span><small>>>👉]+集♥",
+  "线路标题": "<span>&&</small>[替换:</span><small>>>
+👉
+]+集
+♥
+",
   
   "播放数组": "module-play-list\">&&</div>",
   

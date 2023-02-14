@@ -2,12 +2,14 @@
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "莫扎兔",
   "主页url": "https://www.mozhatu.com",
+  "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
   
   "分类": "电影&电视剧&综艺&动漫&记录",
   "分类值": "1&2&3&4&5",
   
   "分类url": "https://www.mozhatu.com/index.php/vod/show{area}{by}/id/{cateId}/page/{catePg}{year}.html",
   
+  "二次截取": "<div class=\"module-adslist&&<div id=\"page\">",
   "副标题": "module-item-note\">&&</div>",
   
   "搜索模式": "0",
@@ -18,7 +20,11 @@
   "简介": "<p>&&</p>",
   
   "线路数组": "data-dropdown-value=&&</div>",
-  "线路标题": "<span>&&</small>[替换:</span><small>>>👉]+集♥",
+  "线路标题": "<span>&&</small>[替换:</span><small>>>
+👉
+]+集
+♥
+",
   
   "播放数组": "module-play-list\">&&</div>",
   

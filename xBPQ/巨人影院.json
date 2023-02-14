@@ -7,10 +7,16 @@
   
   "分类url": "https://www.jurenm.com/show/{cateId}{area}{by}/page/{catePg}{year}.html",
   
+  "数组": "<li class=\"hl-list-item&&</li>",
   "副标题": "remarks\">&&</span>",
   
-  "搜索模式": "0",
-  "搜索后缀": "/detail/",
+  "搜索模式": "1",
+  "搜索url": "/search.html?wd={wd}",
+  "搜索数组": "hl-item-pic\">&&</a>",
+  "搜索图片": "data-original=\"&&\"",
+  "搜索标题": "title=\"&&\"",
+  "搜索链接": "href=\"&&\"",
+  "搜索副标题": "remarks\">&&</span>",
   
   "影片年代": "年份：&&</li>",
   "影片地区": "地区：&&</li>",
