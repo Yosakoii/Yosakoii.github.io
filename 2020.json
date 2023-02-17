@@ -53,6 +53,7 @@
 {"key":"csp_niketv","name":"👟耐克(SP)","api":"csp_Nkdy","playerType":2,"type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_yanetflix","name":"🦆鸭奈(SP)","api":"csp_YaNetFlix","playerType":2,"type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_QQ","name":"🐧企鹅(SP)","type":3,"api":"csp_QQ","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Mgtv","name":"🥭忙果(SP)","type":3,"api":"csp_Mgtv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IQIYI","name":"🥝奇异(SP)","type":3,"api":"csp_IQIYI","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_忙果","name":"🥭芒果(js)","type":3,"api":"https://notabug.org/aruisi888/Ar/raw/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/js/百忙无果.js"},
 {"key":"drpy_js_油库","name":"⛽油库(js)","type":3,"api":"https://notabug.org/aruisi888/Ar/raw/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/js/优酷.js"},
