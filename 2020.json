@@ -9,7 +9,7 @@
 {"key":"csp_AList","name":"🅿️AList(SP)","type":3,"api":"csp_AList","searchable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/js/Alist1.json"},
 {"key":"csp_GitCafe","name":"📜纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"e0f6a0b54bfb4b1290e1f5ddaf00277e"},
 {"key":"csp_zhaozy","name":"🐱资源①","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"e0f6a0b54bfb4b1290e1f5ddaf00277e"},
-{"key":"csp_YiSo","name":"🐱易搜②","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"e0f6a0b54bfb4b1290e1f5ddaf00277e"},
+{"key": "YiSo","name": "😹易搜②","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "e0f6a0b54bfb4b1290e1f5ddaf00277e"},
 {"key":"csp_UpYun","name":"🐱云搜③","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext":"e0f6a0b54bfb4b1290e1f5ddaf00277e"},
 {"key":"csp_AliPS","name":"🐱盘搜④","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"e0f6a0b54bfb4b1290e1f5ddaf00277e"},
 {"key":"csp_Nmys","name":"🐄农民(SP)","type":3,"api":"csp_Nmys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/XP/Nmys.json"},
@@ -342,14 +342,6 @@
 {"key":"csp_xb_纽约","name":"💠纽约(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://nycvod.live/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"},
 {"key":"csp_xb_诺讯","name":"💠诺讯(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.nunxun.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"},
 
-{"key":"泥巴","name":"🔞泥巴(SP)","type":3,"api":"csp_Nbys","searchable":1,"filterable":1,"ext":1},
-{"key":"玩偶","name":"🔞玩偶(SP)","type":3,"api":"csp_Doll","searchable":1,"filterable":1},
-{"key":"18","name":"🔞Eight(SP)","type":3,"api":"csp_Eighteen","searchable":1,"filterable":1},
-{"key":"Jable","name":"🔞Jab(SP)","type":3,"api":"csp_Jable","searchable":1,"filterable":1},
-{"key":"Pig","name":"🔞Pig(SP)","type":3,"api":"csp_Pig","searchable":1,"filterable":1},
-{"key":"Miss","name":"🔞Miss(SP)","type":3,"api":"csp_Miss","searchable":1,"filterable":1},
-{"key":"Supja","name":"🔞Supja(SP)","type":3,"api":"csp_Supjav","searchable":1,"filterable":1},
-{"key":"Hani","name":"🔞Hani(SP)","type":3,"api":"csp_Hanime","searchable":1,"filterable":1},
 
 {"key":"快播","name":"🎬快播资源","type":1,"api":"https://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"filterable":0,"categories":["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},
 {"key":"百度","name":"🎬百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
