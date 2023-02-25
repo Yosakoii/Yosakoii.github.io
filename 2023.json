@@ -1,5 +1,5 @@
 {
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/0217.jar;md5;b5015d3ab280d8773c0cf9647c5d9e92",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/0225.jar;md5;f6ca5c789e1aabad1d1dc8e27a393ca2",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvWW9zYWtvaWkvWW9zYWtvaWkuZ2l0aHViLmlvL21haW4vdHYvemIxLnR4dA=="]}]}],
 
